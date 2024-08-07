@@ -1,0 +1,15 @@
+title: shawn_jl_demo
+alternateName: shawn_jl_demo
+abstract: This is a JupyterLab demo datalab by Shawn
+contactPoint.email: jane.doe@univers.eu
+creator.name: Shawn Polson
+version: 0.0.1
+description: > 
+  This datalab is used to demonstrate the creation and build of a 
+  custom JupyterLab type datalab for internal developers on ESA Datalabs.
+  A metadata file is used to auto-complete metadata fields. 
+  This build uses a custom Dockerfile.
+  The environment.yml file is used to install python packages.
+distribution.license: None
+domain: https://data.esa.int/esado/domainSCI
+language: english
